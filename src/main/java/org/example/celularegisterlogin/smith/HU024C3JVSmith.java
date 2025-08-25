@@ -1,4 +1,4 @@
-package org.example.celularegisterlogin;
+package org.example.celularegisterlogin.smith;
 
 import java.util.HashMap;
 import java.util.Map;

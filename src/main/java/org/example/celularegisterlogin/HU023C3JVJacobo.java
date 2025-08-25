@@ -1,11 +1,11 @@
 package org.example.celularegisterlogin;
 
 public class HU023C3JVJacobo {
-    private static final String EMAIL_REGISTRADO    = "usuario@ejemplo.com";
-    private static final String PASSWORD_REGISTRADA = "miContraseña123";
     public static void main(String[] args) {
 
-
+// Datos registrados (simulados): deben estar en el scope de la clase
+        private static final String EMAIL_REGISTRADO    = "usuario@ejemplo.com";
+        private static final String PASSWORD_REGISTRADA = "miContraseña123";
 
         // Solicitar correo
         System.out.print("Correo: ");
